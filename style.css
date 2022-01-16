@@ -1,0 +1,19 @@
+body
+{
+    background-color: lightgreen;
+}
+
+#score{
+font-size: 25px;
+margin-left: 20px;
+}
+
+#timer{
+    font-size: 25px;
+    float: right;
+    margin-right: 20px;
+}
+
+#next_sketch{
+    color: darkblue;
+}
